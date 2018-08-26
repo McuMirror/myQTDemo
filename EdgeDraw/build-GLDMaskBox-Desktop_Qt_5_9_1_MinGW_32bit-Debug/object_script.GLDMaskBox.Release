@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\GLDMaskBox.o
+./release\CustomDialog.o
+./release\IrregularForm.o
+./release\LogoinWidget.o
+./release\CustomButton.o
+./release\moc_GLDMaskBox.o
+./release\moc_CustomDialog.o
+./release\moc_IrregularForm.o
+./release\moc_LogoinWidget.o
+./release\moc_CustomButton.o
+);

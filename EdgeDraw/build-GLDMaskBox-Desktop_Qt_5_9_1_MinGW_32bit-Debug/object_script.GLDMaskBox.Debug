@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\GLDMaskBox.o
+./debug\CustomDialog.o
+./debug\IrregularForm.o
+./debug\LogoinWidget.o
+./debug\CustomButton.o
+./debug\moc_GLDMaskBox.o
+./debug\moc_CustomDialog.o
+./debug\moc_IrregularForm.o
+./debug\moc_LogoinWidget.o
+./debug\moc_CustomButton.o
+);
